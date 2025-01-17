@@ -53,6 +53,7 @@ AtliQ business users provided me, as a data analyst, with requirement files for 
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+---
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
