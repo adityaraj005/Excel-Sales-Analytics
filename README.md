@@ -16,20 +16,6 @@ AtliQ employs a multi-channel strategy to reach end consumers effectively:
 
 ---
 
-# AtliQ Hardware: Company Overview  
-
-## Customer Segmentation  
-AtliQ Hardware serves two types of platforms:  
-- **Brick and Mortar:** Customers like **Croma** and **Best Buy**.  
-- **E-commerce:** Customers like **Amazon** and **Flipkart**.  
-
-## Sales Channels  
-AtliQ Hardware reaches end consumers through three main channels:  
-1. **Retailers:** Platforms like **Croma** and **Amazon**.  
-2. **Direct:** AtliQ’s own stores, such as **AtliQ e-Store** and **AtliQ Exclusive**.  
-3. **Distributors:** Partners like **Neptune** in China.  
-
----
 
 ## Data Analytics Requirement  
 
