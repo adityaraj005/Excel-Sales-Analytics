@@ -1,4 +1,23 @@
-# Excel-Sales-Analytics
+# AtliQ Hardware: Company Overview  
+
+AtliQ Hardware is a leading provider of high-quality computer hardware, catering to a diverse range of customers, including **global giants like Amazon, Flipkart, Croma, and Best Buy**. By seamlessly connecting technology to end consumers, AtliQ ensures that innovation meets everyday functionality.  
+
+## Customer Segmentation  
+AtliQ categorizes its customers into two key platforms:  
+- **Brick and Mortar:** Retail powerhouses like **Croma** and **Best Buy**, delivering technology through physical stores.  
+- **E-commerce:** Online marketplaces such as **Amazon** and **Flipkart**, ensuring convenience and accessibility for tech-savvy consumers.  
+
+## Sales Channels  
+AtliQ employs a multi-channel strategy to reach end consumers effectively:  
+1. **Retailers:** Products are sold through established platforms like **Croma** and **Amazon**, offering a blend of physical and online retail experiences.  
+2. **Direct:** AtliQ operates its own exclusive outlets, such as **AtliQ e-Store** and **AtliQ Exclusive**, providing customers with direct access to their premium hardware range.  
+3. **Distributors:** Through partnerships with distributors like **Neptune** in China, AtliQ taps into international markets, expanding its global footprint.  
+
+
+---
+
+
+
 ## Sales Report :
 
 
