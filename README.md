@@ -16,16 +16,33 @@ AtliQ employs a multi-channel strategy to reach end consumers effectively:
 
 ---
 
+# AtliQ Hardware: Company Overview  
 
+## Customer Segmentation  
+AtliQ Hardware serves two types of platforms:  
+- **Brick and Mortar:** Customers like **Croma** and **Best Buy**.  
+- **E-commerce:** Customers like **Amazon** and **Flipkart**.  
 
-## Sales Report :
+## Sales Channels  
+AtliQ Hardware reaches end consumers through three main channels:  
+1. **Retailers:** Platforms like **Croma** and **Amazon**.  
+2. **Direct:** AtliQ’s own stores, such as **AtliQ e-Store** and **AtliQ Exclusive**.  
+3. **Distributors:** Partners like **Neptune** in China.  
 
+---
 
-- **Project objective:** 
+## Data Analytics Requirement  
 
-    **1.** Create a _[customer performance report](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)_ 
+AtliQ business users provided me, as a data analyst, with requirement files for **Sales Analytics** and **Finance Analytics**. Based on these files, I was tasked with creating detailed reports as follows:  
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Targets%20Report.pdf)_
+### Sales Analytics  
+1. **[Customer Performance Report](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)_:**  
+   - Net sales for the years **2019**, **2020**, **2021**.  
+   - Year-over-year comparison: **2021 vs 2020**.  
+
+2. **[Market Performance vs Sales Targets](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Targets%20Report.pdf)_:**  
+   - Net sales for **2019**, **2020**, **2021**.  
+   - Targets for **2021** and the difference between **actuals and targets** for the same year.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -34,13 +51,15 @@ AtliQ employs a multi-channel strategy to reach end consumers effectively:
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## Finance Report :
+### Finance Analytics  
+1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20FIscal%20Year%20Report.pdf)_ and [Months](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Months%20Report.pdf)_:**  
+   - Metrics: **Net Sales**, **COGS (Cost of Goods Sold)**, **Gross Margin**, **GM%**.  
+   - Data for **2019**, **2020**, **2021**, and a year-over-year comparison: **2021 vs 2020**.
+   - Quarterly breakdown: **Q1 (Sep-Nov)**, **Q2 (Dec-Feb)**, **Q3 (Mar-May)**, and **Q4 (Jun-Aug)**, aligned with AtliQ Hardware's fiscal calendar (September to August).  
 
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20FIscal%20Year%20Report.pdf)_ & _[Months](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Months%20Report.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Market%20Report.pdf)_
+2. **[Profit and Loss (P&L) Reports by Markets](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Market%20Report.pdf)_:**  
+   - Metrics: **Net Sales**, **COGS**, **Gross Margin**, **GM%**.
+   - Data for all Markets.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
