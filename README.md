@@ -54,7 +54,7 @@ This project was developed to meet AtliQ Hardware’s business requirements for 
 ---
 
 ## **Tools and Technologies Used**  
-- **Excel**: Built interactive dashboards and reports with slicers and dynamic visuals.  
+- **Excel**: Built interactive reports with conditional formatting to highlight key insights.  
 - **Power Query**: Automated data cleaning, transformation, and ETL processes.  
 - **Power Pivot**: Designed robust data models, calculated metrics like GM%, and created fiscal periods.  
 
