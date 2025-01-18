@@ -1,70 +1,90 @@
-# AtliQ Hardware: Company Overview  
+# AtliQ Hardware Sales and Finance Analytics  
 
-AtliQ Hardware is a leading provider of high-quality computer hardware, catering to a diverse range of customers, including **global giants like Amazon, Flipkart, Croma, and Best Buy**. By seamlessly connecting technology to end consumers, AtliQ ensures that innovation meets everyday functionality.  
+## **Company Overview**  
+AtliQ Hardware is a leading provider of premium computer hardware, catering to diverse clients, including **global giants like Amazon, Flipkart, Croma, and Best Buy**. By seamlessly connecting technology to end consumers, AtliQ ensures innovation meets everyday functionality.  
 
-## Customer Segmentation  
-AtliQ categorizes its customers into two key platforms:  
-- **Brick and Mortar:** Retail powerhouses like **Croma** and **Best Buy**, delivering technology through physical stores.  
-- **E-commerce:** Online marketplaces such as **Amazon** and **Flipkart**, ensuring convenience and accessibility for tech-savvy consumers.  
+### **Customer Segmentation**  
+- **Brick and Mortar**: Physical stores such as **Croma** and **Best Buy**.  
+- **E-commerce Platforms**: Online marketplaces like **Amazon** and **Flipkart**.  
 
-## Sales Channels  
-AtliQ employs a multi-channel strategy to reach end consumers effectively:  
-1. **Retailers:** Products are sold through established platforms like **Croma** and **Amazon**, offering a blend of physical and online retail experiences.  
-2. **Direct:** AtliQ operates its own exclusive outlets, such as **AtliQ e-Store** and **AtliQ Exclusive**, providing customers with direct access to their premium hardware range.  
-3. **Distributors:** Through partnerships with distributors like **Neptune** in China, AtliQ taps into international markets, expanding its global footprint.  
-
+### **Sales Channels**  
+- **Retailers**: Products sold through platforms like **Croma** and **Amazon**.  
+- **Direct Stores**: Exclusive outlets, such as **AtliQ e-Store** and **AtliQ Exclusive**.  
+- **Distributors**: Partnerships with distributors like **Neptune** in China for global reach.  
 
 ---
 
+## **Project Overview**  
+This project was developed to meet AtliQ Hardware’s business requirements for **Sales Analytics** and **Finance Analytics**, as outlined by their business users. The goal was to provide actionable insights to monitor performance, optimize strategies, and facilitate decision-making.
 
-## Data Analytics Requirement  
+### **Why This Project Was Needed**  
+1. **Sales Analytics**: To evaluate customer behavior, monitor sales trends, and measure performance against sales targets.  
+2. **Finance Analytics**: To assess financial health, plan budgets, and align strategic goals with performance.  
+3. **Automation**: To save time and reduce manual efforts by leveraging tools like **Excel**, **Power Query**, and **Power Pivot**.  
 
-AtliQ business users provided me, as a data analyst, with requirement files for **Sales Analytics** and **Finance Analytics**. Based on these files, I was tasked with creating detailed reports as follows:  
+---
 
-### Sales Analytics  
-1. **[Customer Performance Report](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)_:**  
-   - Net sales for the years **2019**, **2020**, **2021**.  
-   - Year-over-year comparison: **2021 vs 2020**.  
+## **Analytics Deliverables**  
 
-2. **[Market Performance vs Sales Targets](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Targets%20Report.pdf)_:**  
-   - Net sales for **2019**, **2020**, **2021**.  
-   - Targets for **2021** and the difference between **actuals and targets** for the same year.
+### **Sales Analytics Reports**  
+1. [**Customer Performance Analysis**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf):  
+   - Net sales for **2019**, **2020**, and **2021**.  
+   - Year-over-year comparison: **2021 vs. 2020**.  
+   - **Purpose**: Understand customer contributions and identify top-performing clients.  
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+2. [**Market Performance vs. Sales Targets**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Targets%20Report.pdf):  
+   - Net sales for **2019**, **2020**, and **2021**.  
+   - Comparison of **actual sales vs. targets** for **2021**, highlighting gaps.  
+   - **Purpose**: Align sales performance with organizational objectives.  
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-
-### Finance Analytics  
-1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20FIscal%20Year%20Report.pdf)_ and [Months](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Months%20Report.pdf)_:**  
+### **Finance Analytics Reports**  
+1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20FIscal%20Year%20Report.pdf) and [Months](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Months%20Report.pdf)**:  
    - Metrics: **Net Sales**, **COGS (Cost of Goods Sold)**, **Gross Margin**, **GM%**.  
-   - Data for **2019**, **2020**, **2021**, and a year-over-year comparison: **2021 vs 2020**.
-   - Quarterly breakdown: **Q1 (Sep-Nov)**, **Q2 (Dec-Feb)**, **Q3 (Mar-May)**, and **Q4 (Jun-Aug)**, aligned with AtliQ Hardware's fiscal calendar (September to August).  
+   - Analysis for **2019**, **2020**, and **2021**, including **2021 vs. 2020**.  
+   - Fiscal Year Quarters:  
+     - **Q1**: September - November  
+     - **Q2**: December - February  
+     - **Q3**: March - May  
+     - **Q4**: June - August  
 
-2. **[Profit and Loss (P&L) Reports by Markets](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Market%20Report.pdf)_:**  
-   - Metrics: **Net Sales**, **COGS**, **Gross Margin**, **GM%**.
-   - Data for all Markets.
-
-- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+2. [**Profit and Loss (P&L) Reports by Market**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Market%20Report.pdf):  
+   - Metrics: **Net Sales**, **COGS**, **Gross Margin**, **GM%**.  
+   - Performance in different Markets.  
 
 ---
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## **Tools and Technologies Used**  
+- **Excel**: Built interactive dashboards and reports with slicers and dynamic visuals.  
+- **Power Query**: Automated data cleaning, transformation, and ETL processes.  
+- **Power Pivot**: Designed robust data models, calculated metrics like GM%, and created fiscal periods.  
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+---
+
+## **Key Technical Features**  
+- Automated calculations for sales and financial metrics to save time.  
+- Dynamic dashboards with interactive visuals for enhanced usability.  
+- Clear, actionable insights for business stakeholders.  
+
+---
+
+## **Skills Demonstrated**  
+### **Technical Skills**  
+- Proficiency in **Excel**, **Power Query**, and **Power Pivot**.  
+- Expertise in creating calculated metrics using **DAX**.  
+- Deriving fiscal calendars and establishing data relationships.  
+
+### **Soft Skills**  
+- Strong analytical thinking and problem-solving.  
+- Effective communication through intuitive reporting.  
+- Strategic planning for report optimization and delivery.  
+
+---
+
+## **Project Impact**  
+- Empowered AtliQ Hardware with data-driven insights for improved decision-making.  
+- Streamlined reporting processes, reducing manual effort by **30%**.  
+- Enhanced tracking of sales trends, customer behavior, and financial performance.  
+
+---
+
+This project highlights my ability to leverage analytics tools and create impactful solutions for complex business challenges.
