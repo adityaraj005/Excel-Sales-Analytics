@@ -27,18 +27,18 @@ This project was developed to meet AtliQ Hardware’s business requirements for 
 ## **Analytics Deliverables**  
 
 ### **Sales Analytics Reports**  
-1. [**Customer Performance Analysis**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf):  
+1. [**Customer Performance Analysis**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/7594708594e79a3f4cff504dfaaaadff88e5e74a/Sales%20Analytics/Customer%20Sales%20Performance%20Report.pdf):  
    - Net sales for **2019**, **2020**, and **2021**.  
    - Year-over-year comparison: **2021 vs. 2020**.  
    - **Purpose**: Understand customer contributions and identify top-performing clients.  
 
-2. [**Market Performance vs. Sales Targets**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Targets%20Report.pdf):  
+2. [**Market Performance vs. Sales Targets**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/7594708594e79a3f4cff504dfaaaadff88e5e74a/Sales%20Analytics/Market%20Performance%20vs%20Targets%20Report.pdf):  
    - Net sales for **2019**, **2020**, and **2021**.  
    - Comparison of **actual sales vs. targets** for **2021**, highlighting gaps.  
    - **Purpose**: Align sales performance with organizational objectives.  
 
 ### **Finance Analytics Reports**  
-1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20FIscal%20Year%20Report.pdf) and [Months](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Months%20Report.pdf)**:  
+1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/7594708594e79a3f4cff504dfaaaadff88e5e74a/Financial%20Analytics/P%20and%20L%20Statement%20by%20FIscal%20Year%20Report.pdf) and [Months](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/7594708594e79a3f4cff504dfaaaadff88e5e74a/Financial%20Analytics/P%20and%20L%20Statement%20by%20Months%20Report.pdf)**:  
    - Metrics: **Net Sales**, **COGS (Cost of Goods Sold)**, **Gross Margin**, **GM%**.  
    - Analysis for **2019**, **2020**, and **2021**, including **2021 vs. 2020**.  
    - Fiscal Year Quarters:  
@@ -47,7 +47,7 @@ This project was developed to meet AtliQ Hardware’s business requirements for 
      - **Q3**: March - May  
      - **Q4**: June - August  
 
-2. [**Profit and Loss (P&L) Reports by Market**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/main/P%20and%20L%20Statement%20by%20Market%20Report.pdf):  
+2. [**Profit and Loss (P&L) Reports by Market**](https://github.com/adityaraj005/Excel-Sales-Analytics/blob/7594708594e79a3f4cff504dfaaaadff88e5e74a/Financial%20Analytics/P%20and%20L%20Statement%20by%20Market%20Report.pdf):  
    - Metrics: **Net Sales**, **COGS**, **Gross Margin**, **GM%**.  
    - Performance in different Markets.  
 
