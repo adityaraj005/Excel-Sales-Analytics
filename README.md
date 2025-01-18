@@ -15,7 +15,7 @@ AtliQ Hardware is a leading provider of premium computer hardware, catering to d
 ---
 
 ## **Project Overview**  
-This project was developed to meet AtliQ Hardware’s business requirements for **Sales Analytics** and **Finance Analytics**, as outlined by their business users. The goal was to provide actionable insights to monitor performance, optimize strategies, and facilitate decision-making.
+This project was developed to meet AtliQ Hardware’s business requirements for **Sales Analytics** and **Finance Analytics**, as outlined by their business users. The goal was to generate **detailed tabular reports** providing actionable insights to monitor performance, optimize strategies, and facilitate decision-making.
 
 ### **Why This Project Was Needed**  
 1. **Sales Analytics**: To evaluate customer behavior, monitor sales trends, and measure performance against sales targets.  
@@ -54,7 +54,7 @@ This project was developed to meet AtliQ Hardware’s business requirements for 
 ---
 
 ## **Tools and Technologies Used**  
-- **Excel**: Built interactive reports with conditional formatting to highlight key insights.  
+- **Excel**: Developed detailed tabular reports based on raw data.  
 - **Power Query**: Automated data cleaning, transformation, and ETL processes.  
 - **Power Pivot**: Designed robust data models, calculated metrics like GM%, and created fiscal periods.  
 
@@ -62,7 +62,7 @@ This project was developed to meet AtliQ Hardware’s business requirements for 
 
 ## **Key Technical Features**  
 - Automated calculations for sales and financial metrics to save time.  
-- Dynamic dashboards with interactive visuals for enhanced usability.  
+- Structured tabular reports for clarity and actionable insights.  
 - Clear, actionable insights for business stakeholders.  
 
 ---
@@ -74,9 +74,9 @@ This project was developed to meet AtliQ Hardware’s business requirements for 
 - Deriving fiscal calendars and establishing data relationships.  
 
 ### **Soft Skills**  
-- Strong analytical thinking and problem-solving.  
-- Effective communication through intuitive reporting.  
-- Strategic planning for report optimization and delivery.  
+- Analytical thinking to derive actionable insights.  
+- Structured approach to organizing and presenting data.  
+- Effective communication through clear and concise reporting.  
 
 ---
 
